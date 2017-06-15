@@ -1,7 +1,3 @@
-# Template for light introduction to survey data analysis
-# Copyright CHOC Children's
-# For bugs/corrections, please send an email to: lehwerhemuepha@choc.org
-# 3/5/2016
 
 
 rm(list=ls())
